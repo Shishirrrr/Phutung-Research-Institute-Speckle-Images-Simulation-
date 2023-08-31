@@ -13,12 +13,12 @@ import pywt.data
 
 from scipy import signal, ndimage
 
-#im = Image.open('/Users/santoshbhandari/Desktop/Speckal Analysis/image_1.tif')
+
 #ar_im = np.array(im)
 #ar_im = im.convert("L")
 #plt.imshow(ar_im)
 #print(ar_im)
-#im_2 = Image.open('/Users/santoshbhandari/Desktop/Speckal Analysis/image_2.tif')
+
 #gr_2 = ImageOps.grayscale(im_2)
 #gr = ImageOps.grayscale(im)
 #scale = np.array(gr)
